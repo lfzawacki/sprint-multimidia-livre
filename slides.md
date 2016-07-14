@@ -4,7 +4,7 @@
 O que vamos fazer?
 =
 
-Aprender sobre cultura livre e criar, encontrar, catalogar e disponibilizar recursos multimídia gratuitamente, sob formatos abertos e licensas livres.
+Aprender sobre cultura livre e criar, encontrar, catalogar e disponibilizar recursos multimídia gratuitamente, sob formatos abertos e licenças livres.
 
 # Vamos...
 
